@@ -1,0 +1,39 @@
+{
+  "customers": [
+    {
+      "id": "270000000",
+      "dni": "270000000",
+      "name": "Alfred Leyza",
+      "age": 30
+    },
+    {
+      "id": "190000000",
+      "dni": "190000000",
+      "name": "Frida Cat",
+      "age": 11
+    },
+    {
+      "name": "Zuliluli",
+      "dni": "34569875",
+      "age": 21,
+      "id": "FBsrOOJ"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
