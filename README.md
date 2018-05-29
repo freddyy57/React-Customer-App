@@ -25,7 +25,7 @@ npm start
 
 Para arrancar server en una nueva ventana de la consola
 
-````
+```
 json-server --watch db.json --port 3004
 
 ```
